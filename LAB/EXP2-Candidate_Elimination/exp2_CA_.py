@@ -1,4 +1,4 @@
-print("J THASLIMA NASREEN \n(192424152)")
+print("J THASLIMA NASREEN\n(192424152)")
 import pandas as pd
 # Read CSV file
 df = pd.read_csv("find s  - Sheet1 (1).csv")
